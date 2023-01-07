@@ -1,0 +1,17 @@
+[
+  {
+    "keywords":[
+      "mañana",
+      "manana"
+    ],
+    "key": "tomorrow"
+  },
+  {
+    "keywords":[
+      "pasado",
+      "pasadomañana",
+      "pasadomanana"
+    ],
+    "key": "next"
+  }
+]

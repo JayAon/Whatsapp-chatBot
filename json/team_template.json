@@ -1,0 +1,28 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "",
+  "type": "template",
+  "template": {
+    "name": "team_template",
+    "language": {
+      "code": "es"
+    },
+    "components": [
+      {
+        "type": "header",
+        "parameters": [
+          {
+            "type": "image",
+            "image": {
+              "link": "https://i.ibb.co/s1HFLMz/personal.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "type": "body"
+      }
+    ]
+  }
+}

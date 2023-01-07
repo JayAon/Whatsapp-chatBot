@@ -1,0 +1,49 @@
+[
+  {
+    "keywords": ["1", "agenda", "cita", "citas", "agendar", "apartar"],
+    "key": "step_1"
+  },
+  {
+    "keywords": [
+      "2",
+      "servicios",
+      "ofrecen",
+      "prestan",
+      "ofrecer",
+      "prestar",
+      "servicio"
+    ],
+    "key": "step_2"
+  },
+  {
+    "keywords": ["3", "equipo", "personas", "profesionales"],
+    "key": "step_3"
+  },
+  {
+    "keywords": [
+      "no",
+      "nope",
+      "nah",
+      "n",
+      "cerrar",
+      "quitar",
+      "cancelar",
+      "olvídalo",
+      "mentira",
+      "olvidalo",
+      "equivoqué",
+      "equivoque",
+      "chao",
+      "terminar"
+    ],
+    "key": "step_4"
+  },
+  {
+    "keywords": ["si", "claro", "porsupuesto", "supuesto", "yes", "y", "s"],
+    "key": "step_5"
+  },
+  {
+    "keywords": ["asistencia", "humana", "persona", "alguien"],
+    "key": "step_6"
+  }
+]

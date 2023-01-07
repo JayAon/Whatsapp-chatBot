@@ -1,0 +1,16 @@
+{
+    "step_3":{
+        "message": ["Ofrecemos los siguientes servicios: \n",
+                    "1. *Diseño de sonrisa* \n",
+                    "2. *Microdiseño* \n",
+                    "3. *Rehabilitación oral* \n",
+                    "4. *Periodoncia* \n",
+                    "5. *Endodoncia* \n",
+                    "_Para agendar tu cita envía 1_"]
+    },
+    "step_4":{
+        "message": ["Nuestro equipo está conformado por profesionales expertos para realizar los procedimientos que requieras. \n",
+                    "Visita nuestro consultorio:\n",
+                    "https://goo.gl/maps/akKh7onbSbtv9ZURA"]
+    }
+}

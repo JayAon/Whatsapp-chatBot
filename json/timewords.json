@@ -1,0 +1,25 @@
+[
+  {
+    "keywords": [
+      "de la mañana",
+      "de la manana",
+      "por la mañana",
+      "por la manana",
+      "mañana",
+      "temprano",
+      "del día",
+      "del dia",
+      "en el día",
+      "del mediodía",
+      "mediodía",
+      "am",
+      "a.m",
+      "m"
+    ],
+    "key": "_am_"
+  },
+  {
+    "keywords": ["de la tarde", "por la tarde", "pm", "p.m"],
+    "key": "_pm_"
+  }
+]

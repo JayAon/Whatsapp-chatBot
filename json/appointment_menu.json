@@ -1,0 +1,28 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "",
+  "type": "template",
+  "template": {
+    "name": "appointment_services",
+    "language": {
+      "code": "es"
+    },
+    "components": [
+      {
+        "type": "header",
+        "parameters": [
+          {
+            "type": "image",
+            "image": {
+              "link": "https://i.ibb.co/dK2C4Vx/logo.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "type": "body"
+      }
+    ]
+  }
+}

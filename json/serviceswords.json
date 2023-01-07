@@ -1,0 +1,46 @@
+[
+  {
+    "keywords": ["general", "1"],
+    "key": "v_general"
+  },
+  {
+    "keywords": ["tratamientos", "estéticos", "2"],
+    "key": "v_esteticos"
+  },
+  {
+    "keywords": ["limpieza", "3"],
+    "key": "limpieza"
+  },
+  {
+    "keywords": ["blanqueamiento", "blanquiamiento", "4"],
+    "key": "blanq"
+  },
+  {
+    "keywords": ["microdiseño", "microdiseno", "micro", "5"],
+    "key": "microdiseno"
+  },
+  {
+    "keywords": ["superior", "6"],
+    "key": "m_sup"
+  },
+  {
+    "keywords": ["completo", "7"],
+    "key": "m_comp"
+  },
+  {
+    "keywords": ["carilla", "8"],
+    "key": "r_carilla"
+  },
+  {
+    "keywords": ["carillas", "9"],
+    "key": "r_carillas"
+  },
+  {
+    "keywords": ["borde", "10"],
+    "key": "r_borde"
+  },
+  {
+    "keywords": ["bordes", "11"],
+    "key": "r_bordes"
+  }
+]
